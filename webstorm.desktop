@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=WebStorm
+Icon=webstorm
+Exec=webstorm %f
+Comment=Lightweight and Smart Javascript IDE
+Categories=Development;IDE;
+StartupWMClass=jetbrains-webstorm

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<id type="desktop">webstorm.desktop</id>
+	<!-- FIXME: Couldn't find a valid license string.-->
+	<metadata_license>CC0-1.0</metadata_license>
+	<name>WebStorm</name>
+	<summary>The smartest JavaScript IDE</summary>
+	<description>
+		<p>Powerful IDE for modern JavaScript development</p>
+	</description>
+	<screenshots>
+		<screenshot type="default" width="1416" height="849">https://raw.githubusercontent.com/devxom/webstorm-rpm-spec/master/screenshots/webstorm.png</screenshot>
+	</screenshots>
+	<url type="homepage">http://www.jetbrains.com/webstorm/</url>
+</application>
