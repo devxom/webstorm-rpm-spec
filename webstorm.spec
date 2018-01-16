@@ -70,16 +70,12 @@ appstream-util validate-relax --nonet %{buildroot}%{_datadir}/appdata/webstorm.a
 %{_datadir}/pixmaps/webstorm.png
 %{_datadir}/appdata/webstorm.appdata.xml
 %{_javadir}/%{name}
-%exclude %{_javadir}/%{name}/jre64
 %{_bindir}/webstorm
 
 %files doc
 %doc *.txt
 %doc help/*.pdf
 %license license/
-
-%files jre
-%{_javadir}/%{name}/jre64
 
 %changelog
 * Thu Dec 14 2017 Ilya Reshetnikov <devxom@users.noreply.github.com> - 2017.3.2
